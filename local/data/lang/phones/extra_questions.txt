@@ -1,0 +1,9 @@
+A_B B_B C_B D_B E_B F_B G_B H_B I_B J_B K_B L_B M_B N_B O_B P_B Q_B R_B S_B T_B U_B V_B W_B X_B Y_B Z_B 
+A_E B_E C_E D_E E_E F_E G_E H_E I_E J_E K_E L_E M_E N_E O_E P_E Q_E R_E S_E T_E U_E V_E W_E X_E Y_E Z_E 
+A_I B_I C_I D_I E_I F_I G_I H_I I_I J_I K_I L_I M_I N_I O_I P_I Q_I R_I S_I T_I U_I V_I W_I X_I Y_I Z_I 
+A_S B_S C_S D_S E_S F_S G_S H_S I_S J_S K_S L_S M_S N_S O_S P_S Q_S R_S S_S T_S U_S V_S W_S X_S Y_S Z_S 
+SIL NSN 
+SIL_B NSN_B 
+SIL_E NSN_E 
+SIL_I NSN_I 
+SIL_S NSN_S 

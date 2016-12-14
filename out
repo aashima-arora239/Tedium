@@ -1,0 +1,31 @@
+utils/prepare_lang.sh local/data/local/dict_nosp/ local/data/local/oov local/data/local/lang local/data/lang
+Checking local/data/local/dict_nosp/silence_phones.txt ...
+--> reading local/data/local/dict_nosp/silence_phones.txt
+--> local/data/local/dict_nosp/silence_phones.txt is OK
+
+Checking local/data/local/dict_nosp/optional_silence.txt ...
+--> reading local/data/local/dict_nosp/optional_silence.txt
+--> local/data/local/dict_nosp/optional_silence.txt is OK
+
+Checking local/data/local/dict_nosp/nonsilence_phones.txt ...
+--> reading local/data/local/dict_nosp/nonsilence_phones.txt
+--> local/data/local/dict_nosp/nonsilence_phones.txt is OK
+
+Checking disjoint: silence_phones.txt, nonsilence_phones.txt
+--> disjoint property is OK.
+
+Checking local/data/local/dict_nosp/lexicon.txt
+--> reading local/data/local/dict_nosp/lexicon.txt
+--> local/data/local/dict_nosp/lexicon.txt is OK
+
+Checking local/data/local/dict_nosp/lexiconp.txt
+--> reading local/data/local/dict_nosp/lexiconp.txt
+--> local/data/local/dict_nosp/lexiconp.txt is OK
+
+Checking lexicon pair local/data/local/dict_nosp/lexicon.txt and local/data/local/dict_nosp/lexiconp.txt
+--> lexicon pair local/data/local/dict_nosp/lexicon.txt and local/data/local/dict_nosp/lexiconp.txt match
+
+Checking local/data/local/dict_nosp/extra_questions.txt ...
+--> local/data/local/dict_nosp/extra_questions.txt is empty (this is OK)
+--> SUCCESS [validating dictionary directory local/data/local/dict_nosp]
+
